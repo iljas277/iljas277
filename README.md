@@ -4,23 +4,27 @@
 
 ---
 
-Коротко: изучаю машинное обучение и backend-разработку. Умею работать с Python, numpy, pandas, scikit-learn, PyTorch, FastAPI, Docker и Git.
+Коротко: изучаю машинное обучение и backend-разработку. Умею работать с Python, NumPy, pandas, scikit-learn, PyTorch, FastAPI, Docker и Git.
 
 Навыки: Python · NumPy · pandas · scikit-learn · PyTorch · FastAPI · Docker · Git
 
 ---
 
-Про два ноутбука (коротко и по делу):
+Файлы в репозитории (коротко и по делу):
 
-- 01_qlearning.ipynb — реализация Q‑learning агента: хранение и обновление Q‑таблицы, сравнение стратегий (ε‑greedy / softmax), тестовые прогонки, графики вознаграждения и анализ стабильности при разных гиперпараметрах.
+- homeworks/hw03_qlearning/01_qlearning.ipynb — реализация Q‑learning агента: хранение и обновление Q‑таблицы, сравнение стратегий (ε‑greedy / softmax), прогонки с визуализацией вознаграждения и анализ влияния гиперпараметров на стабильность обучения.
 
-- transformers.ipynb — эксперименты с трансформерами: предобработка, обучение/файнтьюнинг модели, оценка качества и примеры инференса на простых задачах. Нотбук содержит практические эксперименты и воспроизводимые ячейки кода.
+- transformers.ipynb — эксперименты с трансформерами: подготовка данных, обучение и/или fine‑tuning модели, оценка качества и примеры инференса — воспроизводимые ячейки кода.
+
+- week_05_convolutional_nets/Homework/hw_4_conv_cnn.ipynb — свёрточные нейросети: архитектуры CNN для классификации/детекции, обучение на датасетах, визуализация фильтров и метрик, примеры fine‑tuning и сравнение результатов.
+
+- "transformers guide" — текстовый/руководящий файл по трансформерам: заметки по теории, практические советы по препроцессингу, настройкам обучения и шаблоны кода для запуска экспериментов.
 
 Репозитории:
-- Qlearning_agent_hw — ноутбуки и эксперименты (ссылка: https://github.com/iljas277/Qlearning_agent_hw)
-- VoiceClassifier — классификация пола по голосу, mel‑спектрограммы (https://github.com/iljas277/VoiceClassifier)
-- mlflow-githubAuth — развёртывание MLflow: версия с nginx и версия с GitHub OAuth (https://github.com/iljas277/mlflow-githubAuth)
-- embadder — генерация эмбеддингов и поиск по FAISS (https://github.com/iljas277/embadder)
+- Qlearning_agent_hw — ноутбуки и эксперименты: https://github.com/iljas277/Qlearning_agent_hw
+- VoiceClassifier — классификация пола по голосу, mel‑спектрограммы: https://github.com/iljas277/VoiceClassifier
+- mlflow-githubAuth — развёртывание MLflow: реализованы две версии — с nginx (reverse proxy/деплой) и с GitHub OAuth (аутентификация через GitHub): https://github.com/iljas277/mlflow-githubAuth
+- embadder — генерация эмбеддингов и поиск по FAISS: https://github.com/iljas277/embadder
 
 Контакты:
 - GitHub: https://github.com/iljas277
@@ -28,4 +32,4 @@
 
 ---
 
-Опыт работы: нет (займался проектами и экспериментами в личных/учебных репозиториях).
+Опыт работы: нет (проектная и исследовательская практика в репозиториях).
