@@ -1,60 +1,31 @@
-# Илья Артамонов 
-Студент ВМК МГУ, 2 курс · Backend / ML · Москва
+## Ильяс Артамонов — iljas277 👋
 
-<!-- Badges -->
-<p>
-  <img src="https://img.shields.io/badge/ВМК%20МГУ-Студент-0052CC?style=flat-square" alt="student">
-  <img src="https://img.shields.io/badge/Роль-Backend%20%2F%20ML-green?style=flat-square" alt="role">
-  <img src="https://img.shields.io/badge/Город-Москва-red?style=flat-square" alt="location">
-</p>
+Студент ВМК МГУ, 2 курс · Москва
 
 ---
 
-## О себе
-Студент 2 курса ВМК МГУ. Увлекаюсь машинным обучением, обработкой данных и созданием надёжных backend‑сервисов для ML. Практических рабочих мест пока нет — реализую учебные и персональные проекты.
+Коротко: изучаю машинное обучение и backend-разработку. Умею работать с Python, numpy, pandas, scikit-learn, PyTorch, FastAPI, Docker и Git.
 
-## Навыки
-<p>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
-  <img src="https://img.shields.io/badge/numpy-003399?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
-</p>
+Навыки: Python · NumPy · pandas · scikit-learn · PyTorch · FastAPI · Docker · Git
 
 ---
 
-## Проекты (публичные)
-- embadder  
-  - Кратко: пайплайн PDF → векторные эмбеддинги + FAISS, используется для Q&A через Telegram-бота.  
-  - Язык: Python  
-  - Ссылка: https://github.com/iljas277/embadder  
-  - Бэйджи:  
-    <img src="https://img.shields.io/github/languages/top/iljas277/embadder?color=blue&style=flat-square" alt="lang"> <img src="https://img.shields.io/github/stars/iljas277/embadder?style=social" alt="stars">
+Про два ноутбука (коротко и по делу):
 
-- VoiceClassifier  
-  - Кратко: модель предсказывает пол по голосу; создаёт mel-спектрограммы.  
-  - Язык: Python  
-  - Ссылка: https://github.com/iljas277/VoiceClassifier  
-  - Бэйджи:  
-    <img src="https://img.shields.io/github/languages/top/iljas277/VoiceClassifier?color=blue&style=flat-square" alt="lang"> <img src="https://img.shields.io/github/stars/iljas277/VoiceClassifier?style=social" alt="stars">
+- 01_qlearning.ipynb — реализация Q‑learning агента: хранение и обновление Q‑таблицы, сравнение стратегий (ε‑greedy / softmax), тестовые прогонки, графики вознаграждения и анализ стабильности при разных гиперпараметрах.
 
-- mlflow-githubAuth  
-  - Кратко: интеграция MLflow с GitHub-аутентификацией; проект содержит фронтенд и Docker-окружение.  
-  - Языки (основные): Python, CSS, HTML, Dockerfile  
-  - Ссылка: https://github.com/iljas277/mlflow-githubAuth  
-  - Бэйджи:  
-    <img src="https://img.shields.io/github/languages/top/iljas277/mlflow-githubAuth?color=blue&style=flat-square" alt="lang"> <img src="https://img.shields.io/github/stars/iljas277/mlflow-githubAuth?style=social" alt="stars">
+- transformers.ipynb — эксперименты с трансформерами: предобработка, обучение/файнтьюнинг модели, оценка качества и примеры инференса на простых задачах. Нотбук содержит практические эксперименты и воспроизводимые ячейки кода.
 
----
+Репозитории:
+- Qlearning_agent_hw — ноутбуки и эксперименты (ссылка: https://github.com/iljas277/Qlearning_agent_hw)
+- VoiceClassifier — классификация пола по голосу, mel‑спектрограммы (https://github.com/iljas277/VoiceClassifier)
+- mlflow-githubAuth — развёртывание MLflow: версия с nginx и версия с GitHub OAuth (https://github.com/iljas277/mlflow-githubAuth)
+- embadder — генерация эмбеддингов и поиск по FAISS (https://github.com/iljas277/embadder)
 
-## Образование
-- ВМК МГУ — студент, 2 курс
-
-## Контакты 
-- Email: ilaartamonov620@gmail.com  
-- Telegram: @xxxxkzrj    
+Контакты:
 - GitHub: https://github.com/iljas277
+- Telegram: https://t.me/iljas277
+
+---
+
+Опыт работы: нет (займался проектами и экспериментами в личных/учебных репозиториях).
