@@ -1,4 +1,4 @@
-# Ильяс (iljas277)
+# Илья Артамонов 
 Студент ВМК МГУ, 2 курс · Backend / ML · Москва
 
 <!-- Badges -->
@@ -54,15 +54,7 @@
 ## Образование
 - ВМК МГУ — студент, 2 курс
 
-## Контакты (заполни, пожалуйста)
-- Email: your-email@example.com  
-- Telegram: @your_telegram  
-- LinkedIn: https://linkedin.com/in/your-profile  
+## Контакты 
+- Email: ilaartamonov620@gmail.com  
+- Telegram: @xxxxkzrj    
 - GitHub: https://github.com/iljas277
-
----
-
-Если нужно — могу:
-- вставить реальные контакты и запушить README в репозиторий (дай разрешение и пришли контакты),  
-- добавить тёмную/светлую тему бейджей или иконки рядом с проектами,  
-- сделать PDF‑версию CV или англоязычный вариант.
